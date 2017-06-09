@@ -11,11 +11,17 @@
 }
 
 .main {
-  background-color: gray;
+  background-color: lightgray;
+  padding-top: 15px;
+  padding-left: 50px;
 }
 
 h1 {
   font-size: 100px;
+}
+
+h2 {
+  font-size: 40px;
 }
 
 h3 {
@@ -28,7 +34,15 @@ h4 {
   font-weight: bold;
 }
 
-p {
+h5 {
+  font-size: 24px;
+}
+
+.sideBar p {
   color: white;
   font-weight: bold;
+}
+
+.main p {
+  font-size: 18px;
 }
