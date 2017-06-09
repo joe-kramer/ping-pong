@@ -1,0 +1,17 @@
+.title {
+  text-align: center;
+  background-color: tan;
+}
+
+.sideBar {
+  background-color: lightgreen;
+  height: 100%;
+}
+
+.main {
+  background-color: gray;
+}
+
+h1 {
+  font-size: 80px;
+}
