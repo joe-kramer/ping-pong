@@ -1,11 +1,13 @@
 .title {
   text-align: center;
   background-color: tan;
+  padding: 50px;
 }
 
 .sideBar {
   background-color: lightgreen;
-  height: 100%;
+  padding-top: 15px;
+  padding-bottom: 100%;
 }
 
 .main {
@@ -13,5 +15,20 @@
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  color: tan;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p {
+  color: white;
+  font-weight: bold;
 }
