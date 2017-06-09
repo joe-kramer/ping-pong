@@ -1,3 +1,7 @@
+body {
+  font-size: 18px;
+}
+
 .title {
   text-align: center;
   background-color: tan;
@@ -40,7 +44,6 @@ h5 {
 
 .sideBar p {
   color: white;
-  font-weight: bold;
 }
 
 .main p {
